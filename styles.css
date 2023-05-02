@@ -56,6 +56,11 @@ article img {
     width: 500px;
     margin: 20px 0;
 }
+@media screen and (max-width: 600px) {
+    article img {
+      width: 300px;
+    }
+  }
 article p {
     font-size: 20px;
     text-align: justify;
@@ -70,11 +75,3 @@ article p {
     height:200px;
 }
 
-
-
-
-/* font-family: 'Almarai', sans-serif;
-
-font-family: 'Baloo Bhaijaan 2', cursive;
-
-font-family: 'Cairo', sans-serif; */
