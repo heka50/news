@@ -57,10 +57,10 @@ article img {
     margin: 20px 0;
 }
 @media screen and (max-width: 600px) {
-    article img {
-      width: 300px;
-    }
+  article img {
+    width: 300px;
   }
+}
 article p {
     font-size: 20px;
     text-align: justify;
@@ -72,6 +72,7 @@ article p {
 .ad img {
     margin: 50px auto;
     width: 500px;
+    max-width: 90%;
     height:200px;
 }
 
